@@ -1,2 +1,5 @@
 pip install -r requirements.txt
 python app.py
+git add .
+git commit -m "Initial Commit"
+git push origin main
