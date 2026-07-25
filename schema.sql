@@ -1,0 +1,5 @@
+CREATE TABLE jobs(
+    id INTEGER PRIMARY KEY AUTOINCREMENT,
+    title TEXT NOT NULL,
+    company TEXT NOT NULL
+);
